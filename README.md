@@ -10,7 +10,7 @@ It is recommended to add the ANTLR4 jar file to PATH. Dunno how it works in Wind
 The parser code is in the .g4 file.
 
 ## Usage
- * Generate the parser using 'antlr -Dlanguage=Python3 Parser.g4'
+ * Generate the parser using 'antlr -Dlanguage=Python3 yal.g4'
  * Run the parser using 'python3 main.py <file_name>'
 
 
